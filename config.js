@@ -11,36 +11,28 @@ var layout_rows = 3;
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
   ["f3de21ff", "satellite.js","L"],
-  ["2196F3", "ISS Trac", "  https://www.orbtrack.org/#/?satName=ISS%20(ZARYA)", "1","L"],
+  ["2196F3", "ISS LOCATION", "  https://www.orbtrack.org/#/?satName=ISS%20(ZARYA)", "1","L"],
   [
     "2196F3",
-    "MORSE CODE SIM",
+    "MORSE CODE",
     "https://lucassedberg.com/tools/morse/simulator",
     "1",
 	  "L"
   ],
   [
     "2196F3",
-    "MORSE CODE SIM",
-    "https://lucassedberg.com/tools/morse/simulator",
-    "1",
-	  "L"
-  ],
-  [
-    "2196F3",
-    "APRS TRAC",
+    "APRS MAP",
     "https://aprs.fi/#!lat=47.70&lng=-117.5",
     "1",
 	  "L"
   ],
   [
     "2196F3",
-    "SONDEHUB",
+    "SONDE HUB",
     "https://tracker.sondehub.org/#!mt=Mapnik&mz=7&qm=3h&mc=47.59135,-117.98218&box=aboutbox",
     "1",
 	"L"
   ],
-	
   ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
   [
     "2196F3",
@@ -49,6 +41,7 @@ var aURL = [
     "1",
     "R",
   ],
+	
   ["2196F3", "FIRES", "https://inciweb.wildfire.gov/", "1.2","R"],
   [
     "2196F3",
