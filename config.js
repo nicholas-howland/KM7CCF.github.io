@@ -96,8 +96,8 @@ var aIMG = [
     "iframe|https://www.youtube.com/embed/Ni-YkkvH6DQ?autoplay=1&mute=1","1"],
   ["ISS CAMERA 2",
     "iframe|https://www.youtube.com/embed/iYmvCUonukw?autoplay=1&mute=1","1"],
-  ["ISS HD",
-    "iframe|https://www.youtube.com/embed/fO9e9jnhYK8?autoplay=0&mute=1","1"]
+  ["HF PROPAGATION",
+    "https://www.hamqsl.com/solar101vhf.php"]
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
