@@ -90,7 +90,14 @@ var aIMG = [
   ],
   ["SATELLITE TRACk",
     "iframe|https://isstracker.pl/en/widget/map?&disableInfoBox=1&lang=en&z=4&mapType=satellite&units=metric&preloader=1&showSatTooltip=0&dayNightLayer=0&showFutureOrbit=0"],
-
+  ["HF PROPAGATION",
+    "https://www.hamqsl.com/solar101vhf.php"],
+  ["HF PROPAGATION",
+    "https://www.hamqsl.com/solar101vhf.php"],
+  ["SATELLITE LIVE VIEW",
+    "iframe|https://www.youtube.com/embed/fO9e9jnhYK8","1"],
+  ["SATELLITE LIVE VIEW",
+    "iframe|https://www.youtube.com/embed/iYmvCUonukw","1"]
 ];
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
